@@ -4,7 +4,7 @@ booktitle: Proceedings of the 2nd NeurIPS Workshop on Symmetry and Geometry in N
 shortname: NeurReps
 volume: '228'
 year: '2023'
-start: &1 2023-12-16
+start: 2023-12-16
 end: 2023-12-16
 published: 2024-08-02
 layout: proceedings
@@ -76,7 +76,7 @@ conference:
   url: https://neurreps.org
   location: New Orleans, Lousiana, USA
   dates:
-  - *1
+  - 2023-12-16
 analytics:
   google:
     tracking_id: UA-92432422-1
